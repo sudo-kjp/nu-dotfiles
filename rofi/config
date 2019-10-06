@@ -1,0 +1,7 @@
+#rofi.theme: /usr/share/rofi/themes/Pop-Dark.rasi
+
+#Dark theme
+#rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+
+#Light theme
+rofi.theme: ~/.cache/wal/baron-colors-rofi-light.rasi
