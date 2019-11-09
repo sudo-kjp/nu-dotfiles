@@ -1,4 +1,4 @@
-![MainScreen](https://imgur.com/eAtlGiC)
+![MainScreen](https://imgur.com/eAtlGiC.png)
 
 New Arch New Me
 
